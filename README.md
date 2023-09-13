@@ -5,8 +5,8 @@ CS @ Cornell
 ----------------------------------------
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/amir-hossain-730571203/)
-* ✉️  You can contact me at [ahossain20@fordham.edu](mailto:ahossain20@fordham.edu)
+* 🖥️  See my portfolio at [Linkedin]([http://www.linkedin.com/in/amir-hossain-730571203/](https://www.linkedin.com/in/amir-h-730571203/))
+* ✉️  You can contact me at [ah2324@cornell.edu](mailto:ah2324@cornell.edu)
 * 🧠  I'm learning git
 * 🤝  I'm open to collaborating on Robotic Operating System, machine learning, scripting for testing software
 * ⚡  Open to all new opportunities
