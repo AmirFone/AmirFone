@@ -5,7 +5,7 @@ CS @ Cornell
 ----------------------------------------
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/amir%20h-730571203/)
+* 🖥️  See my portfolio at [Linkedin](linkedin.com/in/amir-h-730571203)
 * ✉️  You can contact me at [ah2324@cornell.edu](mailto:ah2324@cornell.edu)
 * 🧠  I'm learning git
 * 🤝  I'm open to collaborating on Robotic Operating System, machine learning, scripting for testing software
