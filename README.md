@@ -1,7 +1,7 @@
 Hi 👋 My name is Amir Hossain
 =============================
 
-computer science and mathematics student
+CS @ Cornell
 ----------------------------------------
 
 * 🌍  I'm based in United States
