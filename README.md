@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir-h-730571203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-h-730571203" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/01_toyota_land_cruiser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/01_toyota_land_cruiser/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/01_toyota_land_cruiser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/01_toyota_land_cruiser/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
