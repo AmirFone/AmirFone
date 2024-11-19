@@ -21,21 +21,21 @@
   - Software Engineer at **Salesforce Core Engineering**, focusing on infrastructure and database optimization.
 
 - 📝 **Published Research:**
-  - First author of a paper on distributed systems accepted into the **IEEE Big Data Conference 2023**.
+  - First author of a paper on multi-tenant systems accepted into the **IEEE Big Data Conference 2023**.
   - **[Distributed Quantum Learning with co-Management in a Multi-tenant Quantum System](https://arxiv.org/abs/2312.08158)**
 
 - 🔭 **Interests:**
-  - Deep infrastructure issues like database optimization, Paxos, and distributed systems consistency.
+  - Deep infrastructure issues like database optimization, Paxos, **fault tolerance**, and **system consistency**.
   - Understanding problems from a fundamental level.
   - Enhancing performance in large-scale systems.
 
 - 🌱 **Currently Learning:**
-  - Advanced distributed systems algorithms.
+  - Advanced algorithms in **fault tolerance**, **replication**, **time synchronization**, and **multi-node system architectures**.
   - Database consistency and consensus protocols.
   - Scalable architectures for real-world problems.
 
 - 💬 **Ask me about:**
-  - Distributed systems, database optimization, and tackling complex engineering problems.
+  - Fault tolerance, replication, time synchronization, setting up RPCs, multi-node systems, distributed GPU training, database optimization, and tackling complex engineering problems.
 
 ---
 
@@ -46,23 +46,23 @@
 - **Familiar with:** Bash, JavaScript
 
 ### Technologies and Frameworks
-- **Distributed Systems:** MapReduce, HDFS, Spark
-- **Machine Learning:** PyTorch
+- **Distributed Systems:** MapReduce, HDFS, Spark, Kafka, gRPC, MPI, Horovod
+- **Machine Learning:** PyTorch, PyTorch Distributed
 - **Web Development:** Flask, React
 - **Version Control:** Git, GitHub, Perforce (p4v)
 - **DevOps:** AWS (Certified Developer Associate, Certified Cloud Practitioner)
 
 ### Databases
-- MySQL, PostgreSQL, SDB, Supabase, Pgvector
+- MySQL, PostgreSQL, Supabase, Pgvector
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Featured Projects
 
-### 1. **[Distributed Systems Research Paper](https://arxiv.org/abs/2312.08158)**
+### 1. **[Research on Multi-tenant Systems](https://arxiv.org/abs/2312.08158)**
    - **Summary:** Authored and published a research paper accepted into IEEE Big Data Conference 2023.
    - **Highlights:**
-     - Developed a metrics-driven platform with a user-friendly API for simulating distributed systems.
+     - Developed a metrics-driven platform with a user-friendly API for simulating multi-tenant systems.
      - Implemented architecture utilizing manager and multiple worker nodes with RPC.
      - Integrated multiple frameworks for comprehensive analysis.
    - **Technologies:** Python, RPC, Distributed Systems Frameworks
@@ -87,9 +87,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> What I'm Learning
 
-- **Distributed Systems:** Exploring consensus algorithms like Paxos and Raft, and understanding scalability challenges.
-- **Database Optimization:** Techniques for query optimization, indexing, and data partitioning.
-- **Scalable Architectures:** Building systems that handle billions of transactions efficiently.
+- **Fault Tolerance & Replication:** Exploring advanced techniques for ensuring system reliability and data consistency.
+- **Distributed GPU Training:** Investigating methods to scale machine learning models across multiple GPUs in distributed environments.
 
 ---
 
@@ -128,16 +127,16 @@
 
 ## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50"> Fun Facts
 
-- I'm fascinated by consensus algorithms and database consistency issues 🔄
-- I enjoy diving deep into fundamental problems and exploring innovative solutions 🧐
+- The first time/the first type of coding I did was Redstone in Minecraft!
+- Enjoy reading interesting articles on technical problems and how companies tackle them
 - Big fan of podcasts and always eager to learn something new 🎧
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50"> Why Choose Me?
+## <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50"> Let's Collaborate!
 
-I'm passionate about solving complex engineering problems with innovative solutions. With a strong background in distributed systems, database optimization, and a deep understanding of both theoretical concepts and practical implementations, I bring valuable expertise to any team. My experience tackling infrastructure challenges at Salesforce and my research contributions demonstrate my ability to operate at the forefront of technology.
+I'm always excited to collaborate on challenging projects that push the boundaries of technology. Whether it's building fault-tolerant systems, optimizing databases, or resolving scaling issues in distributed GPU networks, I enjoy working with others to solve complex engineering problems. **Let's build something amazing together!**
 
 ---
 
-**Let's connect and collaborate on challenging projects!**
+**Feel free to reach out, and let's make a difference together!**
