@@ -1,35 +1,143 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">CS @ Cornell University Software engineer, based in the New York metropolitan area</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirfone&label=Profile%20views&color=0e75b6&style=flat" alt="amirfone" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirfone" alt="amirfone" /></a> </p>
-
-- 🔭 I’m currently working on Learning more about large language, models and deep learning frameworks through my schoolwork [mapreduce-and-hdfs-project](https://github.com/AmirFone/mapreduce-and-hdfs-project)
-
-- 🌱 I’m currently learning **MLops on AWS,data engineering,NLP**
-
-- 👯 I’m looking to collaborate on projects that are mission driven, and relate to the use of large language models, and can have high impact [minitorch](https://minitorch.github.io/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AmirFone?tab=repositories](https://github.com/AmirFone?tab=repositories)
-
-- 💬 Ask me about **Prompting,backend, optimizing Python, machine, learning operations**
-
-- 📫 How to reach me **ah2324@cornell.edu**
-
-- ⚡ Fun fact **I love to listen to podcasts**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amir-h-730571203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-h-730571203" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/01_toyota_land_cruiser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/01_toyota_land_cruiser/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="100" height="100" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there, I'm Amir 👋</h1>
+<h3 align="center">Software Engineer passionate about Distributed Systems, Database Optimization, and Tackling Complex Engineering Challenges 🚀</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirfone&show_icons=true&locale=en&layout=compact" alt="amirfone" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirfone&label=Profile%20views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirfone&show_icons=true&locale=en" alt="amirfone" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirfone&" alt="amirfone" /></p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> About Me
+
+- 🎓 **Education:**
+  - Master of Engineering in Computer Science from **Cornell University**
+  - Bachelor of Science in Mathematics and Computer & Information Sciences from **Fordham University**
+
+- 💼 **Current Position:**
+  - Software Engineer at **Salesforce Core Engineering**, focusing on infrastructure and database optimization.
+
+- 📝 **Published Research:**
+  - First author of a paper on distributed systems accepted into the **IEEE Big Data Conference 2023**.
+  - **[Distributed Quantum Learning with co-Management in a Multi-tenant Quantum System](https://arxiv.org/abs/2312.08158)**
+
+- 🔭 **Interests:**
+  - Deep infrastructure issues like database optimization, Paxos, and distributed systems consistency.
+  - Understanding problems from a fundamental level.
+  - Enhancing performance in large-scale systems.
+
+- 🌱 **Currently Learning:**
+  - Advanced distributed systems algorithms.
+  - Database consistency and consensus protocols.
+  - Scalable architectures for real-world problems.
+
+- 💬 **Ask me about:**
+  - Distributed systems, database optimization, and tackling complex engineering problems.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="25" height="25" /> Skills
+
+### Programming Languages
+- **Proficient in:** Python, C++, SQL, Java, HTML/CSS
+- **Familiar with:** Bash, JavaScript
+
+### Technologies and Frameworks
+- **Distributed Systems:** MapReduce, HDFS, Spark
+- **Machine Learning:** PyTorch
+- **Web Development:** Flask, React
+- **Version Control:** Git, GitHub, Perforce (p4v)
+- **DevOps:** AWS (Certified Developer Associate, Certified Cloud Practitioner)
+
+### Databases
+- MySQL, PostgreSQL, SDB, Supabase, Pgvector
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Featured Projects
+
+### 1. **[Distributed Systems Research Paper](https://arxiv.org/abs/2312.08158)**
+   - **Summary:** Authored and published a research paper accepted into IEEE Big Data Conference 2023.
+   - **Highlights:**
+     - Developed a metrics-driven platform with a user-friendly API for simulating distributed systems.
+     - Implemented architecture utilizing manager and multiple worker nodes with RPC.
+     - Integrated multiple frameworks for comprehensive analysis.
+   - **Technologies:** Python, RPC, Distributed Systems Frameworks
+
+### 2. **[Security Vulnerability Detection](https://github.com/AmirFone/security-vulnerability-detection)**
+   - **Summary:** Developed a system to detect security vulnerabilities in web applications using NLP to analyze code snippets.
+   - **Technologies:** Python, Hugging Face Transformers, TensorFlow, Flask
+
+### 3. **[Contextual Conversation](https://github.com/AmirFone/contextual-conversation)**
+   - **Summary:** Web application for analyzing and understanding extensive documentation and audio files using embeddings.
+   - **Technologies:** React, Flask, AWS Cognito, Vector Databases, NLP
+
+### 4. **[Script AI](https://github.com/AmirFone/script-ai)**
+   - **Summary:** Tool for enhancing public speaking and acting performances with AI-driven feedback from video recordings.
+   - **Technologies:** Flask, AWS S3, GPT-4 Vision, TogetherAPI, Llama 2 (70B), Whisper, JavaScript, HTML, CSS
+
+### 5. **[MapReduce and HDFS Simulation](https://github.com/AmirFone/mapreduce-and-hdfs-project)**
+   - **Summary:** Simulated distributed processing using MapReduce and HDFS concepts for handling large datasets.
+   - **Technologies:** Python, Hadoop, Bash
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> What I'm Learning
+
+- **Distributed Systems:** Exploring consensus algorithms like Paxos and Raft, and understanding scalability challenges.
+- **Database Optimization:** Techniques for query optimization, indexing, and data partitioning.
+- **Scalable Architectures:** Building systems that handle billions of transactions efficiently.
+
+---
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirfone&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirfone&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirfone&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" alt="Computer Disk" width="25" height="25" /> Connect with Me
+
+<p align="center">
+  <a href="https://www.amirh.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/amir-h-730571203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ah2324@cornell.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://leetcode.com/01_toyota_land_cruiser/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50"> Fun Facts
+
+- I'm fascinated by consensus algorithms and database consistency issues 🔄
+- I enjoy diving deep into fundamental problems and exploring innovative solutions 🧐
+- Big fan of podcasts and always eager to learn something new 🎧
+
+---
+
+## <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="50"> Why Choose Me?
+
+I'm passionate about solving complex engineering problems with innovative solutions. With a strong background in distributed systems, database optimization, and a deep understanding of both theoretical concepts and practical implementations, I bring valuable expertise to any team. My experience tackling infrastructure challenges at Salesforce and my research contributions demonstrate my ability to operate at the forefront of technology.
+
+---
+
+**Let's connect and collaborate on challenging projects!**
