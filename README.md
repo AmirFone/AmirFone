@@ -25,8 +25,8 @@
   - **[Distributed Quantum Learning with co-Management in a Multi-tenant Quantum System](https://arxiv.org/abs/2312.08158)**
 
 - 🔭 **Interests:**
+  - Advance retrieval augmented generation techniques for multimodal information
   - Deep infrastructure issues like database optimization, Paxos, **fault tolerance**, and **system consistency**.
-  - Understanding problems from a fundamental level.
   - Enhancing performance in large-scale systems.
 
 - 🌱 **Currently Learning:**
@@ -35,7 +35,7 @@
   - Scalable architectures for real-world problems.
 
 - 💬 **Ask me about:**
-  - Fault tolerance, replication, time synchronization, setting up RPCs, multi-node systems, distributed GPU training, database optimization, and tackling complex engineering problems.
+  - Prompting,fine-tuning, Large Language Models, Fault tolerance, database optimization.
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### Programming Languages
 - **Proficient in:** Python, C++, SQL, Java, HTML/CSS
-- **Familiar with:** Bash, JavaScript
+- **Familiar with:** Bash, JavaScript, c
 
 ### Technologies and Frameworks
 - **Distributed Systems:** MapReduce, HDFS, Spark, Kafka, gRPC, MPI, Horovod
