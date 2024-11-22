@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Amir 👋</h1>
-<h3 align="center">Software Engineer passionate about Distributed Systems, Database Optimization, and Tackling Complex Engineering Challenges 🚀</h3>
+<h3 align="center">Software Engineer passionate about any and all things creative 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirfone&label=Profile%20views&color=blue&style=flat-square" alt="Profile Views" />
@@ -24,18 +24,18 @@
   - First author of a paper on multi-tenant systems accepted into the **IEEE Big Data Conference 2023**.
   - **[Distributed Quantum Learning with co-Management in a Multi-tenant Quantum System](https://arxiv.org/abs/2312.08158)**
 
-- 🔭 **Interests:**
+- 🔭 **Interests Right now:**
   - Advance retrieval augmented generation techniques for multimodal information
   - Deep infrastructure issues like database optimization, Paxos, **fault tolerance**, and **system consistency**.
-  - Enhancing performance in large-scale systems.
+  - videography
 
 - 🌱 **Currently Learning:**
   - Advanced algorithms in **fault tolerance**, **replication**, **time synchronization**, and **multi-node system architectures**.
   - Database consistency and consensus protocols.
-  - Scalable architectures for real-world problems.
+  - daVinci resolve
 
 - 💬 **Ask me about:**
-  - Prompting,fine-tuning, Large Language Models, Fault tolerance, database optimization.
+  - Color-grading, Photography, Prompting, fine-tuning, Large Language Models, Fault tolerance, database optimization.
 
 ---
 
@@ -62,20 +62,21 @@
 ### 1. **[Research on Multi-tenant Systems](https://arxiv.org/abs/2312.08158)**
    - **Summary:** Authored and published a research paper accepted into IEEE Big Data Conference 2023.
    - **Highlights:**
+     - Develop the real time resource allocation algorithm based on real time sampling of worker nodes
      - Developed a metrics-driven platform with a user-friendly API for simulating multi-tenant systems.
      - Implemented architecture utilizing manager and multiple worker nodes with RPC.
      - Integrated multiple frameworks for comprehensive analysis.
    - **Technologies:** Python, RPC, Distributed Systems Frameworks
 
-### 2. **[Security Vulnerability Detection](https://github.com/AmirFone/security-vulnerability-detection)**
+### 2. **[Security Vulnerability Detection](https://github.com/AmirFone/Angel.ai)**
    - **Summary:** Developed a system to detect security vulnerabilities in web applications using NLP to analyze code snippets.
    - **Technologies:** Python, Hugging Face Transformers, TensorFlow, Flask
 
-### 3. **[Contextual Conversation](https://github.com/AmirFone/contextual-conversation)**
+### 3. **[Contextual Conversation](https://github.com/AmirFone/contextual_daily)**
    - **Summary:** Web application for analyzing and understanding extensive documentation and audio files using embeddings.
    - **Technologies:** React, Flask, AWS Cognito, Vector Databases, NLP
 
-### 4. **[Script AI](https://github.com/AmirFone/script-ai)**
+### 4. **[Script AI](https://github.com/AmirFone/Hack_lama)**
    - **Summary:** Tool for enhancing public speaking and acting performances with AI-driven feedback from video recordings.
    - **Technologies:** Flask, AWS S3, GPT-4 Vision, TogetherAPI, Llama 2 (70B), Whisper, JavaScript, HTML, CSS
 
