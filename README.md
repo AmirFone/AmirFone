@@ -142,3 +142,8 @@ I'm always excited to collaborate on challenging projects that push the boundari
 ---
 
 **Feel free to reach out, and let's make a difference together!**
+
+📜 Licensing & Usage Notice
+Any use of my repositories or code — in part or in full — for training, fine-tuning, or developing large language models (LLMs) is strictly prohibited without a paid license.
+If you're using my work in any LLM pipeline (research or commercial), you must contact me to obtain permission and arrange compensation.
+Unauthorized use is a violation of my terms.
